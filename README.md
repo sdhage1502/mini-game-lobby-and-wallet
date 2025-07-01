@@ -2,6 +2,7 @@
 
 This is a **responsive social gaming module** built with Next.js (App Router) and JavaScript. It simulates a mini game lobby with wallet-based coin management and a basic transaction system — part of a social app featuring games, 1:1 audio calls, and gamification.
 
+# Live Link :- https://mini-game-lobby-and-wallet.vercel.app/
 ---
 
 ## 🚀 Features
