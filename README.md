@@ -17,20 +17,20 @@ This is a **responsive social gaming module** built with Next.js (App Router) an
 
 ## 🧑‍💻 Tech Stack Used
 
-| Tech           | Purpose                                 |
-|----------------|------------------------------------------|
-| **Next.js**    | React framework with App Router (v13+)   |
-| **Tailwind CSS** | Utility-first responsive styling        |
-| **JavaScript** | Programming language (no TypeScript)     |
-| **Node.js**    | For mock API routes                      |
-| **Mock APIs**  | Handled using Next.js API routes         |
+| Tech             | Purpose                                                  |
+| ---------------- | -------------------------------------------------------- |
+| **Next.js**      | React framework with App Router (v13+)  routing |
+| **JavaScript**   | Core programming language    |
+| **Tailwind CSS** | Utility-first CSS framework for responsive styling       |
+| **Node.js**      | Runtime for handling backend logic via API routes        |
+| **Mock APIs**    | Simulated in-memory APIs using Next.js API routes        |
 
 ---
 
 ## 📁 Folder Structure
 
 ```
-📦 mini-game-lobby/
+📦 mini-game-lobby-and-wallet/
 ├── app/
 │   ├── page.jsx              // Main Lobby page
 │   ├── game/[id]/page.jsx    // Dummy game screen
